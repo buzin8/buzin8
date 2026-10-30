@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="hero.svg" alt="NEON//IDENTITY — ANUBHAB MUKHERJEE" width="100%" />
+  <img src="hero_banner.svg" alt="NEON//IDENTITY — ANUBHAB MUKHERJEE" width="100%" />
 </div>
 
 ---
