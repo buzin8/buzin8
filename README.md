@@ -30,7 +30,7 @@
 ### `[ 01 // IDENTITY ] — About Me`
 
 <p align="center">
-  <img src="assets/about.svg" alt="About Anubhab Mukherjee" width="100%" />
+  <img src="about.svg" alt="About Anubhab Mukherjee" width="100%" />
 </p>
 
 <table>
@@ -74,7 +74,7 @@
 ### `[ 03 // ARSENAL ] — Technical Skills`
 
 <p align="center">
-  <img src="assets/stack.svg" alt="Technical Arsenal" width="100%" />
+  <img src="stack.svg" alt="Technical Arsenal" width="100%" />
 </p>
 
 <table align="center" width="100%">
@@ -130,7 +130,7 @@
 ### `[ 04 // VERIFIED BUILDS ] — Projects Showcase`
 
 <p align="center">
-  <img src="assets/projects.svg" alt="Featured Projects" width="100%" />
+  <img src="projects.svg" alt="Featured Projects" width="100%" />
 </p>
 
 | # | Project | Description | Tech Stack | Links |
@@ -172,7 +172,7 @@
 ### `[ 06 // DIRECT NODES ] — Connect & Opportunities`
 
 <p align="center">
-  <img src="assets/connect.svg" alt="Connection Nodes" width="100%" />
+  <img src="connect.svg" alt="Connection Nodes" width="100%" />
 </p>
 
 <p align="center">
