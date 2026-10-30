@@ -1,11 +1,7 @@
 <div align="center">
 
   <!-- HERO BANNER -->
-   <a href="https://portfolio-buzin.vercel.app">
-     <a href="https://portfolio-buzin.vercel.app">
-        <a href="https://github.com/buzin8">
-    <img src="hero.svg" alt="NEON//IDENTITY — ANUBHAB MUKHERJEE" width="100%" />
-  </a>
+  <img src="hero.svg" alt="NEON//IDENTITY — ANUBHAB MUKHERJEE" width="100%" />
 
   <br/>
 
@@ -140,7 +136,7 @@
 | **01** | **MediTrack — Hospital Management Dashboard** | Full-stack hospital management dashboard managing patient records, doctor scheduling, and appointments with live Neon PostgreSQL persistence. | `Next.js` `React` `PostgreSQL (Neon)` `API Routes` | [View Live Demo ↗](https://meditrack-kappa-two.vercel.app) • [View GitHub Repo ↗](https://github.com/buzin8/meditrack) |
 | **02** | **Spider-Man Cinematic Fan Page** | Responsive cinematic web experience featuring interactive animated canvas particles and dynamic scene switches between Homecoming and Brand New Day. | `HTML5` `CSS3` `JavaScript` `Canvas API` | [View Live Demo ↗](https://spiderman-orpin-delta.vercel.app/) • [View GitHub Repo ↗](https://github.com/buzin8/Spiderman) |
 | **03** | **LEGO Rush — 3D Endless Runner** | Full 3D browser runner with lane controls, jump mechanics, dynamic train obstacles, coin collection, and hoverboard mode in a stylized Tokyo setting. | `Three.js` `JavaScript` `WebGL` `HTML5` | [View Live Demo ↗](https://legorush.vercel.app) • [View GitHub Repo ↗](https://github.com/buzin8/LEGO_RUSH) |
-| **04** | **Lucky Slots — Browser Slot Machine** | Python Flask-backed slot game featuring adjustable bets and paylines, balance tracking, randomized spins, and winning-line evaluation. | `Python` `Flask` `JavaScript` `HTML/CSS` | [View Live Demo ↗](https://slot-machine-slotmachine.vercel.app) • [View GitHub Repo ↗](https://github.com/buzin8/SLOT_-MACHINE) |
+| **04** | **LuckySlots — Browser Slot Machine** | Python Flask-backed slot game featuring adjustable bets and paylines, balance tracking, randomized spins, and winning-line evaluation. | `Python` `Flask` `JavaScript` `HTML/CSS` | [View Live Demo ↗](https://slot-machine-slotmachine.vercel.app) • [View GitHub Repo ↗](https://github.com/buzin8/SLOT_-MACHINE) |
 | **05** | **Pepsi Interactive Landing Page** | Responsive brand-inspired landing page with interactive product flavor selection that seamlessly transitions hero can imagery and color themes. | `HTML5` `CSS3` `JavaScript` | [View Live Demo ↗](https://pepsi-ten-jet.vercel.app/) • [View GitHub Repo ↗](https://github.com/buzin8/pepsi) |
 | **06** | **Starbucks Interactive Landing Page** | Interactive beverage showcase featuring dynamic beverage selection, CSS layout transforms, and responsive typography. | `HTML5` `CSS3` `JavaScript` | [View Live Demo ↗](https://starbucks-buzin.vercel.app/) • [View GitHub Repo ↗](https://github.com/buzin8/starbucks) |
 | **07** | **Buzin’s Diner — Restaurant Website** | Welcoming restaurant web application where users explore categorized culinary offerings, dish details, and ordering highlights. | `HTML5` `CSS3` `JavaScript` | [View Live Demo ↗](https://buzin-sdiner-ashen.vercel.app/) • [View GitHub Repo ↗](https://github.com/buzin8/BUZIN-S_DINER) |
