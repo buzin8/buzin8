@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- HERO BANNER -->
-   <img src="projects.svg" alt="Featured Projects" width="100%" />
+  <a href="https://portfolio-buzin.vercel.app">
      <a href="https://portfolio-buzin.vercel.app">
         <a href="https://github.com/buzin8">
     <img src="hero.svg" alt="NEON//IDENTITY — ANUBHAB MUKHERJEE" width="100%" />
