@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="NEON//IDENTITY - ANUBHAB MUKHERJEE">
   <defs>
     <linearGradient id="tint" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#080B10" stop-opacity="0.18"/>
-      <stop offset="0.35" stop-color="#080B10" stop-opacity="0.14"/>
-      <stop offset="1" stop-color="#080B10" stop-opacity="0.78"/>
+      <stop offset="0" stop-color="#080B10" stop-opacity="0.22"/>
+      <stop offset="0.4" stop-color="#080B10" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#080B10" stop-opacity="0.80"/>
     </linearGradient>
     <linearGradient id="scrim" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#080B10" stop-opacity="0.48"/>
-      <stop offset="0.42" stop-color="#080B10" stop-opacity="0.18"/>
+      <stop offset="0" stop-color="#080B10" stop-opacity="0.54"/>
+      <stop offset="0.45" stop-color="#080B10" stop-opacity="0.18"/>
       <stop offset="0.78" stop-color="#080B10" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="btn" x1="0" y1="0" x2="1" y2="0">
@@ -64,13 +64,13 @@
   </g>
 
   <g filter="url(#shadow)">
-    <rect x="60" y="520" width="122" height="42" rx="19" fill="url(#btn)"/>
-    <text x="121" y="548" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="17" font-weight="800" fill="#041218">HTML</text>
+    <rect x="60" y="520" width="200" height="42" rx="19" fill="url(#btn)"/>
+    <text x="160" y="548" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="800" fill="#041218">VIEW 8 PROJECTS</text>
 
-    <rect x="196" y="520" width="122" height="42" rx="19" fill="url(#btn)"/>
-    <text x="257" y="548" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="17" font-weight="800" fill="#041218">CSS</text>
+    <rect x="280" y="520" width="205" height="42" rx="19" fill="url(#btn)"/>
+    <text x="382.5" y="548" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="800" fill="#041218">LIVE PORTFOLIO</text>
 
-    <rect x="332" y="520" width="150" height="42" rx="19" fill="url(#btn)"/>
-    <text x="407" y="548" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="17" font-weight="800" fill="#041218">JAVASCRIPT</text>
+    <rect x="500" y="520" width="175" height="42" rx="19" fill="url(#btn)"/>
+    <text x="587.5" y="548" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="800" fill="#041218">GITHUB</text>
   </g>
 </svg>
