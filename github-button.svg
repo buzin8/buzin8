@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="170" height="46" viewBox="0 0 170 46">
+  <title>GitHub Profile</title>
+
+  <rect
+    x="0.5" y="0.5"
+    width="169" height="45"
+    rx="10"
+    fill="#080B10"
+    stroke="#00E5FF"
+    stroke-opacity="0.4"/>
+
+  <text
+    x="85" y="28"
+    text-anchor="middle"
+    fill="#FFFFFF"
+    font-family="'Chakra Petch','Rajdhani','Segoe UI','Helvetica Neue',Arial,sans-serif"
+    font-size="13"
+    font-weight="700"
+    letter-spacing="1.2">GITHUB PROFILE ↗</text>
+</svg>
