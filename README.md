@@ -11,27 +11,30 @@
     <img
       src="./linkedin-button.svg"
       alt="LinkedIn Profile"
-      width="176"
-      height="48"
+      width="200"
+      height="46"
     />
   </a>
+  &nbsp;
   <a href="https://portfolio-buzin.vercel.app/">
     <img
       src="./portfolio-button.svg"
       alt="Live Portfolio"
-      width="176"
-      height="48"
+      width="200"
+      height="46"
     />
   </a>
+  &nbsp;
   <a href="https://github.com/buzin8">
     <img
       src="./github-button.svg"
       alt="GitHub Profile"
-      width="176"
-      height="48"
+      width="200"
+      height="46"
     />
   </a>
 </p>
+
 ### `[ 01 // IDENTITY ] — About Me`
 
 <p align="center">
