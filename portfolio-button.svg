@@ -1,21 +1,67 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="170" height="46" viewBox="0 0 170 46">
+     width="200" height="46" viewBox="0 0 200 46">
   <title>Live Portfolio</title>
 
-  <rect
-    x="0.5" y="0.5"
-    width="169" height="45"
-    rx="10"
-    fill="#080B10"
-    stroke="#00E5FF"
-    stroke-opacity="0.4"/>
+  <defs>
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#008CFF"/>
+      <stop offset="45%" stop-color="#00E5FF"/>
+      <stop offset="100%" stop-color="#00FFC6"/>
+    </linearGradient>
+
+    <linearGradient id="panel" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10232E"/>
+      <stop offset="100%" stop-color="#080B10"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Angular cyberpunk panel -->
+  <path
+    d="M12 3 H187 L197 13 V33 L187 43 H12 L3 34 V12 Z"
+    fill="url(#panel)"/>
+
+  <!-- Layered neon border: glow stays inside the image -->
+  <g fill="none" stroke="url(#neon)">
+    <path
+      d="M12 3 H187 L197 13 V33 L187 43 H12 L3 34 V12 Z"
+      stroke-width="6" opacity="0.08"/>
+    <path
+      d="M12 3 H187 L197 13 V33 L187 43 H12 L3 34 V12 Z"
+      stroke-width="3" opacity="0.22"/>
+    <path
+      d="M12 3 H187 L197 13 V33 L187 43 H12 L3 34 V12 Z"
+      stroke-width="1.2"/>
+  </g>
+
+  <!-- Bright corner accents -->
+  <path d="M12 3 H43 M167 43 H187 L197 33"
+        fill="none" stroke="#00FFC6" stroke-width="2"/>
+
+  <!-- Circuit-style details -->
+  <path d="M53 8 H68 M72 8 H78"
+        stroke="#00E5FF" stroke-width="1" opacity="0.5"/>
+  <path d="M121 38 H144 M148 38 H153"
+        stroke="#00FFC6" stroke-width="1" opacity="0.45"/>
+
+  <!-- Custom code logo inside the button -->
+  <path d="M24 17 L18 23 L24 29
+           M34 17 L40 23 L34 29
+           M31 15 L27 31"
+        fill="none" stroke="#00FFC6"
+        stroke-width="1.8"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+
+  <!-- Logo/text separator -->
+  <path d="M48 14 V32"
+        stroke="#00E5FF" opacity="0.3"/>
 
   <text
-    x="85" y="28"
+    x="120" y="27.5"
     text-anchor="middle"
-    fill="#FFFFFF"
-    font-family="'Chakra Petch','Rajdhani','Segoe UI','Helvetica Neue',Arial,sans-serif"
-    font-size="13"
+    font-family="'Segoe UI',Arial,sans-serif"
+    font-size="12"
     font-weight="700"
-    letter-spacing="1.2">LIVE PORTFOLIO ↗</text>
+    letter-spacing="0.6"
+    fill="#E8FCFF">LIVE PORTFOLIO ↗</text>
 </svg>
