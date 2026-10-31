@@ -67,19 +67,5 @@
     <text x="392" y="516" fill="#00FFC6">Open to entry-level roles</text>
   </g>
 
-  <!-- buttons -->
-  <g font-family="'Chakra Petch','Rajdhani','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.2">
-    <a href="https://portfolio-buzin.vercel.app" target="_blank" rel="noopener noreferrer">
-      <rect x="60" y="552" width="170" height="46" rx="10" fill="url(#btn)"/>
-      <text x="145" y="580" text-anchor="middle" fill="#080B10">VIEW 8 PROJECTS</text>
-    </a>
-    <a href="https://portfolio-buzin.vercel.app" target="_blank" rel="noopener noreferrer">
-      <rect x="246" y="552" width="170" height="46" rx="10" fill="#080B10" fill-opacity="0.78" stroke="#00E5FF" stroke-opacity="0.4"/>
-      <text x="331" y="580" text-anchor="middle" fill="#FFFFFF">LIVE PORTFOLIO ↗</text>
-    </a>
-    <a href="https://github.com/buzin8" target="_blank" rel="noopener noreferrer">
-      <rect x="432" y="552" width="170" height="46" rx="10" fill="#080B10" fill-opacity="0.78" stroke="#00E5FF" stroke-opacity="0.4"/>
-      <text x="517" y="580" text-anchor="middle" fill="#FFFFFF">GITHUB PROFILE ↗</text>
-    </a>
-  </g>
+
 </svg>
