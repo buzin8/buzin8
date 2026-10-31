@@ -1,22 +1,69 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="170" height="46" viewBox="0 0 170 46">
+     width="200" height="46" viewBox="0 0 200 46">
   <title>LinkedIn Profile</title>
 
   <defs>
-    <linearGradient id="btn" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="neon"
+                    x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#008CFF"/>
+      <stop offset="50%" stop-color="#00E5FF"/>
       <stop offset="100%" stop-color="#00FFC6"/>
+    </linearGradient>
+
+    <linearGradient id="panel"
+                    x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10232E"/>
+      <stop offset="100%" stop-color="#080B10"/>
     </linearGradient>
   </defs>
 
-  <rect width="170" height="46" rx="10" fill="url(#btn)"/>
+  <!-- Button background -->
+  <path
+    d="M12 3 H187 L197 13 V33 L187 43 H12 L3 34 V12 Z"
+    fill="url(#panel)"/>
 
-  <text
-    x="85" y="28"
-    text-anchor="middle"
-    fill="#080B10"
-    font-family="'Chakra Petch','Rajdhani','Segoe UI','Helvetica Neue',Arial,sans-serif"
-    font-size="13"
-    font-weight="700"
-    letter-spacing="1.2">LINKEDIN ↗</text>
+  <!-- Continuous neon border with layered glow -->
+  <g fill="none" stroke="url(#neon)">
+    <path
+      d="M12 3 H187 L197 13 V33 L187 43 H12 L3 34 V12 Z"
+      stroke-width="6" opacity="0.08"/>
+    <path
+      d="M12 3 H187 L197 13 V33 L187 43 H12 L3 34 V12 Z"
+      stroke-width="3" opacity="0.22"/>
+    <path
+      d="M12 3 H187 L197 13 V33 L187 43 H12 L3 34 V12 Z"
+      stroke-width="1.2"/>
+  </g>
+
+  <!-- Cyberpunk corner accents -->
+  <path d="M12 3 H43 M167 43 H187 L197 33"
+        fill="none" stroke="#00FFC6" stroke-width="2"/>
+
+  <!-- Circuit details -->
+  <path d="M53 8 H68 M72 8 H78"
+        stroke="#00E5FF" opacity="0.5"/>
+  <path d="M121 38 H144 M148 38 H153"
+        stroke="#00FFC6" opacity="0.45"/>
+
+  <!-- LinkedIn-style logo: INSIDE the button -->
+  <rect x="17" y="11" width="24" height="24"
+        rx="3" fill="#008CFF"/>
+
+  <text x="29" y="30"
+        text-anchor="middle"
+        font-family="Arial,Helvetica,sans-serif"
+        font-size="21" font-weight="700"
+        fill="#FFFFFF">in</text>
+
+  <!-- Divider between logo and label -->
+  <path d="M48 14 V32"
+        stroke="#00E5FF" opacity="0.3"/>
+
+  <!-- Label: to the right of the logo -->
+  <text x="120" y="27.5"
+        text-anchor="middle"
+        font-family="'Segoe UI',Arial,sans-serif"
+        font-size="12" font-weight="700"
+        letter-spacing="0.6"
+        fill="#E8FCFF">LINKEDIN ↗</text>
 </svg>
