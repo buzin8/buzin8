@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="170" height="46" viewBox="0 0 170 46">
+  <title>LinkedIn Profile</title>
+
+  <defs>
+    <linearGradient id="btn" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#008CFF"/>
+      <stop offset="100%" stop-color="#00FFC6"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="170" height="46" rx="10" fill="url(#btn)"/>
+
+  <text
+    x="85" y="28"
+    text-anchor="middle"
+    fill="#080B10"
+    font-family="'Chakra Petch','Rajdhani','Segoe UI','Helvetica Neue',Arial,sans-serif"
+    font-size="13"
+    font-weight="700"
+    letter-spacing="1.2">LINKEDIN ↗</text>
+</svg>
