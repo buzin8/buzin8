@@ -159,17 +159,9 @@
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr align="center">
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=buzin8&show_icons=true&bg_color=080B10&title_color=00E5FF&text_color=9AA8B7&icon_color=00FFC6&border_color=00E5FF33" alt="GitHub stats" width="430" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buzin8&layout=compact&bg_color=080B10&title_color=00E5FF&text_color=9AA8B7&border_color=00E5FF33" alt="Top languages" width="430" />
-      </td>
-    </tr>
-    <tr align="center">
       <td colspan="2">
         <br/>
-        <img src="https://streak-stats.demolab.com/?user=buzin8&background=080B10&border=00E5FF33&stroke=00E5FF&ring=00E5FF&fire=00FFC6&currStreakLabel=00E5FF&sideLabels=9AA8B7&dates=9AA8B7" alt="GitHub streak stats" width="880" />
+        <img src="https://streak-stats.demolab.com/?user=buzin8&background=080B10&border=00E5FF33&stroke=00E5FF&ring=00E5FF&fire=00FFC6&currStreakNum=00E5FF&currStreakLabel=00E5FF&sideNums=00E5FF&sideLabels=9AA8B7&dates=9AA8B7" alt="GitHub streak stats" width="880" />
       </td>
     </tr>
   </table>
